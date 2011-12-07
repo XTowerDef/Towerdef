@@ -1,0 +1,10 @@
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\RpgLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\RpgLibrary\obj\Debug\RpgLibrary.pdb
+C:\Users\moebis\Documents\Visual Studio 2010\Projects\Rpgengine\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\moebis\Documents\Visual Studio 2010\Projects\Rpgengine\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\moebis\Documents\Visual Studio 2010\Projects\Rpgengine\RpgLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moebis\Documents\Visual Studio 2010\Projects\Rpgengine\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\moebis\Documents\Visual Studio 2010\Projects\Rpgengine\RpgLibrary\obj\Debug\RpgLibrary.pdb

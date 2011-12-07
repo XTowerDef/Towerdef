@@ -1,0 +1,6 @@
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\XRpgLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+C:\Users\jan\documents\visual studio 2010\Projects\Rpgengine\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb
