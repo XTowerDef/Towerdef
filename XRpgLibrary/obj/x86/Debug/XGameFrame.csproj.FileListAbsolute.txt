@@ -10,3 +10,9 @@ C:\Users\jan\Documents\Visual Studio 2010\Projects\TowerDef\XRpgLibrary\obj\x86\
 C:\Users\jan\Documents\Visual Studio 2010\Projects\TowerDef\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\jan\Documents\Visual Studio 2010\Projects\TowerDef\XRpgLibrary\obj\x86\Debug\XGameFrame.dll
 C:\Users\jan\Documents\Visual Studio 2010\Projects\TowerDef\XRpgLibrary\obj\x86\Debug\XGameFrame.pdb
+C:\Users\jan\Towerdef\XRpgLibrary\bin\x86\Debug\XGameFrame.dll
+C:\Users\jan\Towerdef\XRpgLibrary\bin\x86\Debug\XGameFrame.pdb
+C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\XGameFrame.dll
+C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\XGameFrame.pdb
