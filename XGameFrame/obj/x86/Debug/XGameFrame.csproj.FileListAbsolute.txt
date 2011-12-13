@@ -16,3 +16,9 @@ C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\XGameFrame.dll
 C:\Users\jan\Towerdef\XRpgLibrary\obj\x86\Debug\XGameFrame.pdb
+C:\Users\jan\Towerdef\XGameFrame\bin\x86\Debug\XGameFrame.dll
+C:\Users\jan\Towerdef\XGameFrame\bin\x86\Debug\XGameFrame.pdb
+C:\Users\jan\Towerdef\XGameFrame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\Towerdef\XGameFrame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jan\Towerdef\XGameFrame\obj\x86\Debug\XGameFrame.dll
+C:\Users\jan\Towerdef\XGameFrame\obj\x86\Debug\XGameFrame.pdb

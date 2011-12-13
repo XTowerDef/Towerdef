@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die mit einer Assembly verknüpft sind.
-[assembly: AssemblyTitle("XTowerDef")]
+[assembly: AssemblyTitle("XGameFrame")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Tower Defense")]
-[assembly: AssemblyCopyright("bye Jan and Jan")]
+[assembly: AssemblyProduct("Xna Library")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("b00029d7-1999-4bbf-8fea-23bf2f7c02d2")]
+[assembly: Guid("26c40955-d124-4b12-83e8-87520b39c480")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //

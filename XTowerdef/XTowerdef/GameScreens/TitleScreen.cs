@@ -18,6 +18,7 @@ namespace XTowerDef.GameScreens
 
         Texture2D backgroundImage;
         LinkLabel startLabel;
+        
 
         #endregion
 
@@ -47,6 +48,8 @@ namespace XTowerDef.GameScreens
             startLabel.HasFocus = true;
             startLabel.Selected += new EventHandler(startLabel_Selected);
             ControlManager.Add(startLabel);
+
+
 
         }
 

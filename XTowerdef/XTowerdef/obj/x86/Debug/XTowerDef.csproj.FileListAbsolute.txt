@@ -35,9 +35,10 @@ C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\Content\Backgrounds\titl
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\XTowerDef.exe
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\XTowerDef.pdb
-C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\XGameFrame.dll
-C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\XGameFrame.pdb
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\obj\x86\Debug\XTowerDef.exe
 C:\Users\jan\Towerdef\XTowerdef\XTowerdef\obj\x86\Debug\XTowerDef.pdb
+C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\XGameFrame.dll
+C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\XGameFrame.pdb
+C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\Content\Controls\checkbox.xnb

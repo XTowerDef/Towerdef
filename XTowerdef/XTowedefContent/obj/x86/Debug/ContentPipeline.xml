@@ -20,6 +20,15 @@
       <Time>2011-12-12T17:36:28.0303304+01:00</Time>
     </Item>
     <Item>
+      <Source>Controls\checkbox.bmp</Source>
+      <Name>Controls\checkbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jan\Towerdef\XTowerdef\XTowerdef\bin\x86\Debug\Content\Controls\checkbox.xnb</Output>
+      <Time>2011-12-13T21:56:50.2171849+01:00</Time>
+    </Item>
+    <Item>
       <Source>GUI\Pistole.png</Source>
       <Name>GUI\leftarrowUp</Name>
       <Importer>TextureImporter</Importer>

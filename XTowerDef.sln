@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTowerDef", "XTowerdef\XTow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTowerDefContent", "XTowerdef\XTowedefContent\XTowerDefContent.contentproj", "{8C62DE4B-0D57-452A-933E-802F81FFE67F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGameFrame", "XRpgLibrary\XGameFrame.csproj", "{7E8E4851-5FF7-42F8-8AF9-26CC79A5DB26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGameFrame", "XGameFrame\XGameFrame.csproj", "{7E8E4851-5FF7-42F8-8AF9-26CC79A5DB26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
