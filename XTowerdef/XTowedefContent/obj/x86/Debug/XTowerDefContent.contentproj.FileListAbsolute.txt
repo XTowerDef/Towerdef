@@ -1,0 +1,4 @@
+C:\Users\moebis\Documents\Visual Studio 2010\Projects\Rpgengine\Rpgengine\RpgengineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\Documents\Visual Studio 2010\Projects\TowerDef\Rpgengine\RpgengineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\Towerdef\Rpgengine\RpgengineContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jan\Towerdef\XTowerdef\XTowedefContent\obj\x86\Debug\ResolveAssemblyReference.cache
