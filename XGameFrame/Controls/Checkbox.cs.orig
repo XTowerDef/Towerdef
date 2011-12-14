@@ -7,17 +7,13 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f1619eae0a92cddd2d98e48eddf1822a2a65dae
 namespace XGameFrame.Controls
 {
     class Checkbox:Control
     {
         #region fields region
 
-<<<<<<< HEAD
         bool isChecked;
         bool isHover;
         Texture2D nonChecked;
@@ -154,20 +150,6 @@ namespace XGameFrame.Controls
         }
 
         #endregion
-=======
-        bool isVisibly = false;
-        Texture2D nonChecked;
-        Texture2D isChecked;
-        
-
-        #endregion
-
-
-
-
-
-
->>>>>>> 9f1619eae0a92cddd2d98e48eddf1822a2a65dae
 
 
 
